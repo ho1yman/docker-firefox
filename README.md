@@ -462,7 +462,7 @@ Two methods can be used to configure users credentials:
   2. Via password database.
 
 Containers environment variables can be used to quickly and easily configure
-a single user. Username and pasword are defined via the following environment
+a single user. Username and password are defined via the following environment
 variables:
   - `WEB_AUTHENTICATION_USERNAME`
   - `WEB_AUTHENTICATION_PASSWORD`
